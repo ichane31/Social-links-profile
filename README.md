@@ -32,12 +32,12 @@ Users should be able to:
 
 ![Tablet Screenshot](./assets/images/screen_tablette.png)
 
-![Mobile Screenshot](./assets/images/screen_mobile.png)
+![Mobile Screenshot](./assets/images/screen_mobile%20(1).png)
 
 
 ### Links
 
-- Solution URL: [Social links profile solution](https://your-solution-url.com)
+- Solution URL: [Social links profile solution](https://github.com/ichane31/Social-links-profile)
 - Live Site URL: [Social links profile](https://your-live-site-url.com)
 
 ## My process
@@ -118,7 +118,7 @@ Key takeaways:
 
 ## Author
 
-- Website - [ASSOUMA Roukéya](https://www.your-site.com)
+- Name - [ASSOUMA Roukéya](ASSOUMA-Roukeya)
 - Frontend Mentor - [@ichane31](https://www.frontendmentor.io/profile/ichane31)
 
 ## Acknowledgments
