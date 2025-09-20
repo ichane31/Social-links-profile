@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Social links profile solution](https://github.com/ichane31/Social-links-profile)
-- Live Site URL: [Social links profile](https://your-live-site-url.com)
+- Live Site URL: [Social links profile](https://social-links-profile-kappa-ruby.vercel.app/)
 
 ## My process
 
